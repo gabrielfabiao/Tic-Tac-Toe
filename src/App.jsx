@@ -3,7 +3,7 @@ import GameBoard from "./components/GameBoard.jsx"
 import { useState } from 'react'
 import Log from "./components/Log.jsx"
 import GameOver from "./components/GameOver.jsx"
-import { WINNING_COMBINATIONS } from "./WINNING_COMBINATIONS.JS"
+import { WINNING_COMBINATIONS } from "./WINNING_COMBINATIONS.js"
 
 const PLAYERS = {
   X: 'Player 1',
